@@ -12,5 +12,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xmeix&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=radical)
 ---
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=xmeix)](https://github.com/anuraghazra/github-readme-stats)
-
-[![](https://visitcount.itsvg.in/api?id=xmeix&icon=0&color=0&theme=radical)](https://visitcount.itsvg.in)
+ 
