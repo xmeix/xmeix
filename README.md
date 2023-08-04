@@ -10,6 +10,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=xmeix&hide_border=false&include_all_commits=false&count_private=false&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xmeix&hide_border=false&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xmeix&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=radical)
----
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=xmeix)](https://github.com/anuraghazra/github-readme-stats)
- 
+--- 
