@@ -21,7 +21,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Springboot](https://img.shields.io/badge/springboot-6DB33F.svg)
+![Springboot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot)
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=xmeix&hide_border=false&include_all_commits=false&count_private=false&theme=radical)
